@@ -106,7 +106,7 @@ section div figure img {
   border-radius: 10px;
   max-width: 480px;
   width: 100%;
-  height: 340px;
+  height: auto;
 }
 
 section div figure figcaption {
